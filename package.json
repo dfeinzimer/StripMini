@@ -9,6 +9,8 @@
   "author": "David Feinzimer",
   "license": "ISC",
   "dependencies": {
+    "@node-minify/clean-css": "^6.1.0",
+    "@node-minify/core": "^6.1.0",
     "colors": "^1.4.0",
     "decomment": "^0.9.3",
     "node-minify": "^3.6.0"
