@@ -1,6 +1,6 @@
 # StripMini
 
-Remove comments and minify JS and CSS files
+Remove comments from and perform minification on JS and CSS files.
  
 ## Setup
 
